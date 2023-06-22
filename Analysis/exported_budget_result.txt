@@ -1,0 +1,6 @@
+Financial Analysis
+----------------------------------------------------
+Total months: 86.0
+Total amount: 22564198.0
+Highest increase: 1141840 - Date: Mar-13
+Lowest increase: -1194133 - Date : Dec-10
